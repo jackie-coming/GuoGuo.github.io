@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codeplayer的奇妙历险记</title>
-    <link>/</link>
-    <description>Recent content on codeplayer的奇妙历险记</description>
+    <title>tag2 on codeplayer的奇妙历险记</title>
+    <link>/tags/tag2/</link>
+    <description>Recent content in tag2 on codeplayer的奇妙历险记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 07 Apr 2022 17:41:14 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 17:41:14 +0800</lastBuildDate><atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇博客</title>
       <link>/2022/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>

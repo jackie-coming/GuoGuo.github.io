@@ -3,9 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/categories/category/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/categories/subcategory/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/tags/tag1/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/tags/tag2/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/2022/04/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-04-07T17:41:14+08:00</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
   </url>
 </urlset>
